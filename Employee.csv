@@ -1,0 +1,23 @@
+Emp_ID,Name,Age,Salary(INR),Experience(Years),City,Department,Performance Rating
+101,Hari ,34,170000,0,"Bangalore
+",Male,4.5
+102,,28,140000,3,Pune,Female,3.8
+103,]sjayam,38,190000,2,New Delhi,Female,4.9
+104,hero,27,135000,5,New Delhi,Male,
+105,bishu,24,120000,2,,Male,5
+106,nobru ,22,110000,0,New Delhi,Male,4
+107,aatish,38,190000,0,Pune,Male,3.5
+108,zerotwo ,34,170000,2,Bangalore,Female,1.2
+109,laxmi,23,115000,1,,Male,4.2
+110,suranjan,37,185000,2,New Delhi,Male,2
+111,samir,27,135000,5,Pune,Male,2
+112,sealord,34,170000,3,Bangalore,Male,
+113,roshan,32,160000,5,,Male,
+114,krishnba,39,195000,2,Bangalore,Male,2
+115,samir shrestha ,37,185000,4,New Delhi,Male,4.2
+116,,29,145000,3,Pune,Male,2.2
+117,meow,34,170000,2,"New Delhi
+",Female,2
+118,pishy,34,170000,4,New Delhi,Male,
+119,hhah,30,150000,0,New Delhi,Female,1
+120,anish,22,110000,0,New Delhi,Female,
